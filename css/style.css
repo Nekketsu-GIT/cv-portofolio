@@ -324,3 +324,99 @@ footer h5{
     color: #fff;
     font-weight: normal;
 }
+
+
+
+/* CONTACT */
+
+#contact{
+    background: #fff;
+}
+#contact .heading h2
+{
+    text-transform: uppercase;
+    font-weight:bold;
+    color: #d82c2e;
+}
+#contact-form
+{
+    font-size: 20px;
+    background: #ddd;
+    padding: 40px;
+    border-radius: 10px;
+}
+/*---  NEW  ------*/
+
+.form-control
+{
+    height: 50px;
+    font-size: 18px;
+}
+#contact-form input[type=submit]
+{
+    margin: 40px auto 0px;
+    display: block;
+}
+.comments
+{
+    font-style: italic;
+    font-size: 18px;
+    color: #d82c2e;
+    height: 25px
+}
+
+.red{
+    color: #d82c2e;
+}
+
+#contact .button1{
+    background: #d82c2e;
+}
+
+#contact .button1:hover{
+    background: #fff;
+    color: #d82c2e;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
